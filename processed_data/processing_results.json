@@ -1,0 +1,1835 @@
+{
+  "total_videos": 24,
+  "passed_videos": 23,
+  "processing_time": 5.796941518783569,
+  "statistics": {
+    "total_videos": 24,
+    "resolution_passed": 24,
+    "face_passed": 23,
+    "age_passed": 23,
+    "final_passed": 23,
+    "processing_time": 5.796941518783569
+  },
+  "passed_video_list": [
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_0d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_1c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_4d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_10d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_22d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_2d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_17c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_19c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_8d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_13c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_11c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_12d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_3c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_15c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_9c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_14d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_5c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_16d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_6d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_20d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_21c.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_18d.mp4",
+    "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_7c.mp4"
+  ],
+  "detailed_results": [
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_0d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            375.0,
+            375.0
+          ],
+          "face_sizes": [
+            [
+              303,
+              303
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              386,
+              386
+            ],
+            [
+              390,
+              390
+            ],
+            [
+              380,
+              380
+            ],
+            [
+              378,
+              378
+            ],
+            [
+              383,
+              383
+            ],
+            [
+              384,
+              384
+            ],
+            [
+              385,
+              385
+            ],
+            [
+              379,
+              379
+            ],
+            [
+              381,
+              381
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 67,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.5736978054046631,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_1c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 13,
+          "valid_faces": 13,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            359.15384615384613,
+            359.15384615384613
+          ],
+          "face_sizes": [
+            [
+              389,
+              389
+            ],
+            [
+              284,
+              284
+            ],
+            [
+              397,
+              397
+            ],
+            [
+              339,
+              339
+            ],
+            [
+              348,
+              348
+            ],
+            [
+              338,
+              338
+            ],
+            [
+              339,
+              339
+            ],
+            [
+              352,
+              352
+            ],
+            [
+              344,
+              344
+            ],
+            [
+              340,
+              340
+            ],
+            [
+              472,
+              472
+            ],
+            [
+              307,
+              307
+            ],
+            [
+              420,
+              420
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 164,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.8912918567657471,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_4d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            358.8181818181818,
+            358.8181818181818
+          ],
+          "face_sizes": [
+            [
+              389,
+              389
+            ],
+            [
+              362,
+              362
+            ],
+            [
+              358,
+              358
+            ],
+            [
+              274,
+              274
+            ],
+            [
+              356,
+              356
+            ],
+            [
+              365,
+              365
+            ],
+            [
+              360,
+              360
+            ],
+            [
+              370,
+              370
+            ],
+            [
+              365,
+              365
+            ],
+            [
+              383,
+              383
+            ],
+            [
+              365,
+              365
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 280,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.0435447692871094,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_10d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 10,
+          "valid_faces": 10,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            376.6,
+            376.6
+          ],
+          "face_sizes": [
+            [
+              389,
+              389
+            ],
+            [
+              380,
+              380
+            ],
+            [
+              384,
+              384
+            ],
+            [
+              338,
+              338
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              378,
+              378
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              378,
+              378
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 330,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.0536777973175049,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_22d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            375.54545454545456,
+            375.54545454545456
+          ],
+          "face_sizes": [
+            [
+              385,
+              385
+            ],
+            [
+              383,
+              383
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              379,
+              379
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              375,
+              375
+            ],
+            [
+              352,
+              352
+            ],
+            [
+              408,
+              408
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              375,
+              375
+            ],
+            [
+              341,
+              341
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 40,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.40068578720092773,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_2d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            374.09090909090907,
+            374.09090909090907
+          ],
+          "face_sizes": [
+            [
+              377,
+              377
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              384,
+              384
+            ],
+            [
+              383,
+              383
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              377,
+              377
+            ],
+            [
+              383,
+              383
+            ],
+            [
+              345,
+              345
+            ],
+            [
+              380,
+              380
+            ],
+            [
+              313,
+              313
+            ],
+            [
+              416,
+              416
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 208,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.9324593544006348,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_17c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            350.0,
+            350.0
+          ],
+          "face_sizes": [
+            [
+              346,
+              346
+            ],
+            [
+              350,
+              350
+            ],
+            [
+              337,
+              337
+            ],
+            [
+              361,
+              361
+            ],
+            [
+              292,
+              292
+            ],
+            [
+              424,
+              424
+            ],
+            [
+              357,
+              357
+            ],
+            [
+              371,
+              371
+            ],
+            [
+              346,
+              346
+            ],
+            [
+              322,
+              322
+            ],
+            [
+              344,
+              344
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 262,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.1576321125030518,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_19c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            347.3636363636364,
+            347.3636363636364
+          ],
+          "face_sizes": [
+            [
+              325,
+              325
+            ],
+            [
+              473,
+              473
+            ],
+            [
+              336,
+              336
+            ],
+            [
+              346,
+              346
+            ],
+            [
+              333,
+              333
+            ],
+            [
+              328,
+              328
+            ],
+            [
+              334,
+              334
+            ],
+            [
+              338,
+              338
+            ],
+            [
+              336,
+              336
+            ],
+            [
+              333,
+              333
+            ],
+            [
+              339,
+              339
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 253,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.171189785003662,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_8d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            375.90909090909093,
+            375.90909090909093
+          ],
+          "face_sizes": [
+            [
+              375,
+              375
+            ],
+            [
+              393,
+              393
+            ],
+            [
+              389,
+              389
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              370,
+              370
+            ],
+            [
+              369,
+              369
+            ],
+            [
+              372,
+              372
+            ],
+            [
+              379,
+              379
+            ],
+            [
+              283,
+              283
+            ],
+            [
+              441,
+              441
+            ],
+            [
+              383,
+              383
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 233,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.0215883255004883,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_13c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 10,
+          "valid_faces": 10,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            342.5,
+            342.5
+          ],
+          "face_sizes": [
+            [
+              348,
+              348
+            ],
+            [
+              346,
+              346
+            ],
+            [
+              340,
+              340
+            ],
+            [
+              335,
+              335
+            ],
+            [
+              337,
+              337
+            ],
+            [
+              328,
+              328
+            ],
+            [
+              338,
+              338
+            ],
+            [
+              339,
+              339
+            ],
+            [
+              301,
+              301
+            ],
+            [
+              413,
+              413
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 178,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.8995816707611084,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/test_video.mp4",
+      "passed": false,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1920,
+            1080
+          ]
+        },
+        "face": {
+          "valid": false,
+          "total_faces": 0,
+          "valid_faces": 0,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            0,
+            0
+          ],
+          "face_sizes": [],
+          "sample_frames": 10,
+          "total_frames": 30,
+          "fps": 30.0
+        }
+      },
+      "processing_time": 0.3378903865814209,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_11c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            338.27272727272725,
+            338.27272727272725
+          ],
+          "face_sizes": [
+            [
+              276,
+              276
+            ],
+            [
+              398,
+              398
+            ],
+            [
+              340,
+              340
+            ],
+            [
+              347,
+              347
+            ],
+            [
+              341,
+              341
+            ],
+            [
+              349,
+              349
+            ],
+            [
+              338,
+              338
+            ],
+            [
+              354,
+              354
+            ],
+            [
+              270,
+              270
+            ],
+            [
+              346,
+              346
+            ],
+            [
+              362,
+              362
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 107,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.5896527767181396,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_12d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            364.72727272727275,
+            364.72727272727275
+          ],
+          "face_sizes": [
+            [
+              376,
+              376
+            ],
+            [
+              367,
+              367
+            ],
+            [
+              373,
+              373
+            ],
+            [
+              366,
+              366
+            ],
+            [
+              375,
+              375
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              280,
+              280
+            ],
+            [
+              382,
+              382
+            ],
+            [
+              374,
+              374
+            ],
+            [
+              371,
+              371
+            ],
+            [
+              372,
+              372
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 325,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.8507504463195801,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_3c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 9,
+          "valid_faces": 9,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            346.1111111111111,
+            346.1111111111111
+          ],
+          "face_sizes": [
+            [
+              353,
+              353
+            ],
+            [
+              351,
+              351
+            ],
+            [
+              336,
+              336
+            ],
+            [
+              350,
+              350
+            ],
+            [
+              348,
+              348
+            ],
+            [
+              337,
+              337
+            ],
+            [
+              346,
+              346
+            ],
+            [
+              351,
+              351
+            ],
+            [
+              343,
+              343
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 215,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.1231491565704346,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_15c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 10,
+          "valid_faces": 10,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            340.0,
+            340.0
+          ],
+          "face_sizes": [
+            [
+              334,
+              334
+            ],
+            [
+              362,
+              362
+            ],
+            [
+              342,
+              342
+            ],
+            [
+              340,
+              340
+            ],
+            [
+              330,
+              330
+            ],
+            [
+              321,
+              321
+            ],
+            [
+              336,
+              336
+            ],
+            [
+              337,
+              337
+            ],
+            [
+              353,
+              353
+            ],
+            [
+              345,
+              345
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 146,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.202056646347046,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_9c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 12,
+          "valid_faces": 12,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            346.0833333333333,
+            346.0833333333333
+          ],
+          "face_sizes": [
+            [
+              340,
+              340
+            ],
+            [
+              340,
+              340
+            ],
+            [
+              283,
+              283
+            ],
+            [
+              397,
+              397
+            ],
+            [
+              351,
+              351
+            ],
+            [
+              343,
+              343
+            ],
+            [
+              350,
+              350
+            ],
+            [
+              340,
+              340
+            ],
+            [
+              305,
+              305
+            ],
+            [
+              430,
+              430
+            ],
+            [
+              336,
+              336
+            ],
+            [
+              338,
+              338
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 301,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.268620252609253,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_14d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 10,
+          "valid_faces": 10,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            380.6,
+            380.6
+          ],
+          "face_sizes": [
+            [
+              371,
+              371
+            ],
+            [
+              391,
+              391
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              392,
+              392
+            ],
+            [
+              385,
+              385
+            ],
+            [
+              371,
+              371
+            ],
+            [
+              377,
+              377
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              380,
+              380
+            ],
+            [
+              377,
+              377
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 258,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.4372990131378174,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_5c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            339.3636363636364,
+            339.3636363636364
+          ],
+          "face_sizes": [
+            [
+              339,
+              339
+            ],
+            [
+              351,
+              351
+            ],
+            [
+              348,
+              348
+            ],
+            [
+              347,
+              347
+            ],
+            [
+              343,
+              343
+            ],
+            [
+              274,
+              274
+            ],
+            [
+              409,
+              409
+            ],
+            [
+              304,
+              304
+            ],
+            [
+              348,
+              348
+            ],
+            [
+              327,
+              327
+            ],
+            [
+              343,
+              343
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 333,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.2448890209197998,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_16d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            367.1818181818182,
+            367.1818181818182
+          ],
+          "face_sizes": [
+            [
+              381,
+              381
+            ],
+            [
+              375,
+              375
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              310,
+              310
+            ],
+            [
+              378,
+              378
+            ],
+            [
+              381,
+              381
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              357,
+              357
+            ],
+            [
+              370,
+              370
+            ],
+            [
+              365,
+              365
+            ],
+            [
+              370,
+              370
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 276,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.2078657150268555,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_6d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 10,
+          "valid_faces": 10,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            376.6,
+            376.6
+          ],
+          "face_sizes": [
+            [
+              375,
+              375
+            ],
+            [
+              382,
+              382
+            ],
+            [
+              379,
+              379
+            ],
+            [
+              384,
+              384
+            ],
+            [
+              371,
+              371
+            ],
+            [
+              379,
+              379
+            ],
+            [
+              382,
+              382
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              374,
+              374
+            ],
+            [
+              364,
+              364
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 215,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 1.0654568672180176,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_20d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 11,
+          "valid_faces": 11,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            376.0,
+            376.0
+          ],
+          "face_sizes": [
+            [
+              375,
+              375
+            ],
+            [
+              371,
+              371
+            ],
+            [
+              372,
+              372
+            ],
+            [
+              372,
+              372
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              368,
+              368
+            ],
+            [
+              362,
+              362
+            ],
+            [
+              413,
+              413
+            ],
+            [
+              376,
+              376
+            ],
+            [
+              375,
+              375
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 271,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.9665119647979736,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_21c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 10,
+          "valid_faces": 10,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            337.7,
+            337.7
+          ],
+          "face_sizes": [
+            [
+              332,
+              332
+            ],
+            [
+              336,
+              336
+            ],
+            [
+              342,
+              342
+            ],
+            [
+              337,
+              337
+            ],
+            [
+              334,
+              334
+            ],
+            [
+              335,
+              335
+            ],
+            [
+              332,
+              332
+            ],
+            [
+              344,
+              344
+            ],
+            [
+              345,
+              345
+            ],
+            [
+              340,
+              340
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 35,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.4097113609313965,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_18d.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 10,
+          "valid_faces": 10,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            365.9,
+            365.9
+          ],
+          "face_sizes": [
+            [
+              374,
+              374
+            ],
+            [
+              365,
+              365
+            ],
+            [
+              358,
+              358
+            ],
+            [
+              368,
+              368
+            ],
+            [
+              357,
+              357
+            ],
+            [
+              362,
+              362
+            ],
+            [
+              365,
+              365
+            ],
+            [
+              363,
+              363
+            ],
+            [
+              371,
+              371
+            ],
+            [
+              376,
+              376
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 196,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.7984399795532227,
+      "error": null
+    },
+    {
+      "video_path": "rawdata/test/t_f7d46bbe-723b-421f-b33c-f19084d332b6_7c.mp4",
+      "passed": true,
+      "filters": {
+        "resolution": {
+          "passed": true,
+          "resolution": [
+            1080,
+            1080
+          ]
+        },
+        "face": {
+          "valid": true,
+          "total_faces": 10,
+          "valid_faces": 10,
+          "min_faces_required": 2,
+          "avg_face_size": [
+            340.1,
+            340.1
+          ],
+          "face_sizes": [
+            [
+              339,
+              339
+            ],
+            [
+              348,
+              348
+            ],
+            [
+              334,
+              334
+            ],
+            [
+              338,
+              338
+            ],
+            [
+              315,
+              315
+            ],
+            [
+              345,
+              345
+            ],
+            [
+              342,
+              342
+            ],
+            [
+              344,
+              344
+            ],
+            [
+              345,
+              345
+            ],
+            [
+              351,
+              351
+            ]
+          ],
+          "sample_frames": 10,
+          "total_frames": 207,
+          "fps": 30.0
+        },
+        "age": {
+          "valid": true,
+          "method": "simplified"
+        }
+      },
+      "processing_time": 0.6467478275299072,
+      "error": null
+    }
+  ]
+}
